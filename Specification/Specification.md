@@ -1,6 +1,6 @@
-# LMS-RM (Leave Management System - Rocket Money Style) Specification
+# ATM-Employees Specification
 
-This expanded specification details the "LMS-RM" (Leave Management System - Rocket Money Style). It bridges the gap between the aesthetic of a high-end fintech app and the functional requirements of corporate HR software.
+This expanded specification details the "ATM-Employees". It bridges the gap between the aesthetic of a high-end fintech app and the functional requirements of corporate HR software.
 
 ## 1. Visual & Design System (The "Rocket Style")
 To ensure the webapp feels like the uploaded images, the frontend must adhere to these specific UI tokens:
